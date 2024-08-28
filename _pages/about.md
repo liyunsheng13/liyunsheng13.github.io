@@ -1,49 +1,85 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yunsheng Li"
+excerpt: "Yunsheng Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yunsheng Li is a Senior Researcher Microsoft Azure GenAI Group. He is working on the development for the multi-modality large language model at Microsoft. His research interests include computer vision (segmentation, domain adaptation), deep learning (network architecture design) and multi-modality large language models. His representative works include [phi-3-vision](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct), [MicroNet](http://www.svcl.ucsd.edu/projects/micronet/), and [BDL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.pdf). 
 
-A data-driven personal website
+Research Experiences
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **2024-present:** Working on the supervised fine-tuning for [Phi-3-vision](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) and [Phi-3.5-vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) project, developing one of the best "small" multi-modal LLMs.
+- **2022-2023:** Design the background removal models that are used in [Windows Paint and Photo] (https://blogs.windows.com/windows-insider/2023/09/07/background-removal-in-paint-begins-rolling-out-to-windows-insiders) and [Microsoft Desiger] (https://create.microsoft.com/en-us/features/image-background-remover)
+- **2015-2021:** A Ph.D. student in University of California, San Diego, working on overcoming the resource constrained computer vision related topics, e.g., [efficient neural network architecture design and domain adaptation] (http://www.svcl.ucsd.edu/people/yunsheng/thesis.pdf). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Please refer to [my Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=t5HZdzoAAAAJ) for a full list of my publications.
+9. **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone** <br>
+   Microsoft GenAI team <br>
+   [[arXiv]](https://arxiv.org/abs/2404.14219) [[HuggingFace]](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
+8. **Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks** <br>
+   Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan <br>
+   [[arXiv]](https://arxiv.org/pdf/2311.06242.pdf) [[HuggingFace]](https://huggingface.co/microsoft/Florence-2-large) <span style="color:red"> **CVPR 2024 (oral)** </span> 
+2. **Deep High-Resolution Representation Learning for Human Pose Estimation** <br>
+   Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
+   [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.pdf) [[Code]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) [<span style="color:red"> **Paper Digest Most Influential CVPR Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-cvpr-papers-2022-05/)
+   <div><iframe src="https://ghbtns.com/github-btn.html?user=leoxiaobin&repo=deep-high-resolution-net.pytorch&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
+5. **CvT: Introducing Convolutions to Vision Transformers** <br>
+   Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang <br>
+   International Conference on Computer Vision (**ICCV**), 2021<br>
+   [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_CvT_Introducing_Convolutions_to_Vision_Transformers_ICCV_2021_paper.pdf) [[Code]](https://github.com/microsoft/CvT) [<span style="color:red"> **Paper Digest Most Influential ICCV Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-iccv-papers-2022-05/)
+   <div><iframe src="https://ghbtns.com/github-btn.html?user=microsoft&repo=CvT&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
+1. **Simple baselines for human pose estimation and tracking** <br>
+   Bin Xiao, Haiping Wu, Yichen Wei <br>
+   European Conference on Computer Vision (**ECCV**), 2018 <br>
+   [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf) [[Code]](https://github.com/microsoft/human-pose-estimation.pytorch) [<span style="color:red"> **Paper Digest Most Influential ECCV Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-eccv-papers-2022-05/)
+   <div><iframe src="https://ghbtns.com/github-btn.html?user=microsoft&repo=human-pose-estimation.pytorch&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
+7. **DaViT: Dual Attention Vision Transformers** <br>
+   Mingyu Ding, Bin Xiao, Noel Codella, Ping Luo, Jingdong Wang, Lu Yuan <br>
+   European Conference on Computer Vision (**ECCV**), 2022 <br>
+6. **Unified contrastive learning in image-text-label space** <br>
+   Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao <br> 
+    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 <br>
+    [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unified_Contrastive_Learning_in_Image-Text-Label_Space_CVPR_2022_paper.pdf)
+6. **Florence: A New Foundation Model for Computer Vision** <br>
+   Lu Yuan, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, Jianwei Yang, Michael Zeng, Luowei Zhou, Pengchuan Zhang <br>
+   [[arXiv]](https://arxiv.org/pdf/2111.11432)
+4. **Lite-hrnet: A lightweight high-resolution network** <br>
+   Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021 <br>
+   [[Paper]](http://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.pdf) [[Code]](https://github. com/HRNet/Lite-HRNet)
+   <div><iframe src="https://ghbtns.com/github-btn.html?user=HRNet&repo=Lite-HRNet&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
+3. **HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation** <br>
+   Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S Huang, Lei Zhang <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020 <br>
+   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_HigherHRNet_Scale-Aware_Representation_Learning_for_Bottom-Up_Human_Pose_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
+   <div><iframe src="https://ghbtns.com/github-btn.html?user=HRNet&repo=HigherHRNet-Human-Pose-Estimation&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
+3. **Deep High-Resolution Representation Learning for Visual Recognition** <br>
+   Jingdong Wang, Ke Sun, Tianheng Cheng, Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu, Mingkui Tan, Xinggang Wang, Wenyu Liu, Bin Xiao <br>
+   IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2020 <br>
+   [[Paper]](https://arxiv.org/pdf/1908.07919)
+2. **Integral human pose regression** <br>
+   Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei <br>
+    European Conference on Computer Vision (**ECCV**), 2018 <br>
+    [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.pdf)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Honors and Awards
+======
+- 1st place in Look into Person Challenge 2019: Single-Person Human Pose Estimation Track
+- 2nd place in Object356 Challenge 2019 : Full track
+- 1st place in PoseTrack Multi-Person Pose Tracking Challenge 2018
+- 2nd place in COCO Keypoint Detection Challenge 2018
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Professinonal Activities
+======
+- Conference reviewer: CVPR, ICCV, ECCV, ICLR, and et.al. 
+- Journal reviewer: T-PAMI, T-MM, IJCV, and et.al.
