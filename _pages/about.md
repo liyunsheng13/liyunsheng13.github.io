@@ -13,19 +13,18 @@ Yunsheng Li is a Senior Researcher Microsoft Azure GenAI Group. He is working on
 Research Experiences
 ======
 - **2024-present:** Working on the supervised fine-tuning for [Phi-3-vision](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct) and [Phi-3.5-vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) project, developing one of the best "small" multi-modal LLMs.
-- **2022-2023:** Design the background removal models that are used in [Windows Paint and Photo] (https://blogs.windows.com/windows-insider/2023/09/07/background-removal-in-paint-begins-rolling-out-to-windows-insiders) and [Microsoft Desiger] (https://create.microsoft.com/en-us/features/image-background-remover)
-- **2015-2021:** A Ph.D. student in University of California, San Diego, working on overcoming the resource constrained computer vision related topics, e.g., [efficient neural network architecture design and domain adaptation] (http://www.svcl.ucsd.edu/people/yunsheng/thesis.pdf). 
+- **2022-2023:** Design the background removal models that are used in [Windows Paint and Photo](https://blogs.windows.com/windows-insider/2023/09/07/background-removal-in-paint-begins-rolling-out-to-windows-insiders) and [Microsoft Desiger](https://create.microsoft.com/en-us/features/image-background-remover)
+- **2015-2021:** A Ph.D. student in University of California, San Diego, working on overcoming the resource constrained computer vision related topics, e.g., [efficient neural network architecture design and domain adaptation](http://www.svcl.ucsd.edu/people/yunsheng/thesis.pdf). 
 
 
 Publications
 ======
-Please refer to [my Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=t5HZdzoAAAAJ) for a full list of my publications.
 9. **Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone** <br>
    Microsoft GenAI team <br>
    [[arXiv]](https://arxiv.org/abs/2404.14219) [[HuggingFace]](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
-8. **Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks** <br>
-   Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan <br>
-   [[arXiv]](https://arxiv.org/pdf/2311.06242.pdf) [[HuggingFace]](https://huggingface.co/microsoft/Florence-2-large) <span style="color:red"> **CVPR 2024 (oral)** </span> 
+8. **Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge** <br>
+   Yuanze Lin, Yunsheng Li, Dongdong Chen, Weijian Xu, Ronald Clark, Philip Torr, Lu Yuan <br>
+   [[arXiv]](https://arxiv.org/pdf/2407.04681)  </span> 
 2. **Deep High-Resolution Representation Learning for Human Pose Estimation** <br>
    Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang <br>
    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
@@ -72,12 +71,6 @@ Please refer to [my Google scholar](https://scholar.google.com/citations?view_op
 
 
 
-Honors and Awards
-======
-- 1st place in Look into Person Challenge 2019: Single-Person Human Pose Estimation Track
-- 2nd place in Object356 Challenge 2019 : Full track
-- 1st place in PoseTrack Multi-Person Pose Tracking Challenge 2018
-- 2nd place in COCO Keypoint Detection Challenge 2018
 
 Professinonal Activities
 ======
