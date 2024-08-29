@@ -64,6 +64,18 @@ Publications
    Yunsheng Li Nuno Vasconcelos <br>
    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
    [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Efficient_Multi-Domain_Learning_by_Covariance_Normalization_CVPR_2019_paper.pdf) [[Website]](http://www.svcl.ucsd.edu/projects/CovNorm)
+10. **Deep scene image classification with the mfafvnet** <br>
+   Yunsheng Li, Mandar Dixit, Nuno Vasconcelos <br>
+   International Conference on Computer Vision (**ICCV**), 2017 <br>
+   [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Deep_Scene_Image_ICCV_2017_paper.pdf) [[Website]](http://www.svcl.ucsd.edu/projects/mfanet)
+11. **Deep Hashing with Hash-Consistent Large Margin Proxy Embeddings** <br>
+   Pedro Morgado, Yunsheng Li, Jose Costa Pereira, Mohammad Saberian, Nuno Vasconcelos <br>
+   International Journal of Computer Vision (**IJCV**) <br>
+   [[Paper]](https://arxiv.org/abs/2007.13912)
+12. **Semantic Fisher Scores for Task Transfer: Using Objects to Classify Scenes** <br>
+   Mandar Dixit, Yunsheng Li, Nuno Vasconcelos <br>
+   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) <br>
+   [[Paper]](https://arxiv.org/pdf/1905.11539.pdf)
 
 
 
