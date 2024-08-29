@@ -28,20 +28,18 @@ Publications
 2. **SCHEME: Scalable Channer Mixer for Vision Transformers** <br>
    Deepak Sridhar, Yunsheng Li, Nuno Vasconcelos <br>
    [[arXiv]](https://arxiv.org/pdf/2312.00412)
-   <div><iframe src="https://ghbtns.com/github-btn.html?user=leoxiaobin&repo=deep-high-resolution-net.pytorch&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
-5. **CvT: Introducing Convolutions to Vision Transformers** <br>
-   Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang <br>
-   International Conference on Computer Vision (**ICCV**), 2021<br>
-   [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_CvT_Introducing_Convolutions_to_Vision_Transformers_ICCV_2021_paper.pdf) [[Code]](https://github.com/microsoft/CvT) [<span style="color:red"> **Paper Digest Most Influential ICCV Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-iccv-papers-2022-05/)
-   <div><iframe src="https://ghbtns.com/github-btn.html?user=microsoft&repo=CvT&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
-1. **Simple baselines for human pose estimation and tracking** <br>
-   Bin Xiao, Haiping Wu, Yichen Wei <br>
-   European Conference on Computer Vision (**ECCV**), 2018 <br>
-   [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf) [[Code]](https://github.com/microsoft/human-pose-estimation.pytorch) [<span style="color:red"> **Paper Digest Most Influential ECCV Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-eccv-papers-2022-05/)
-   <div><iframe src="https://ghbtns.com/github-btn.html?user=microsoft&repo=human-pose-estimation.pytorch&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
-7. **DaViT: Dual Attention Vision Transformers** <br>
-   Mingyu Ding, Bin Xiao, Noel Codella, Ping Luo, Jingdong Wang, Lu Yuan <br>
+5. **Fully authentic visual question answering dataset from online communities** <br>
+   Chongyan Chen, Mengchen Liu, Noel Codella, Yunsheng Li, Lu Yuan, Danna Gurari <br>
+   European Conference on Computer Vision (**ECCV**), 2024<br>
+   [[Paper]](https://arxiv.org/pdf/2311.15562) [[Website]](https://vqaonline.github.io/)
+1. **Dense network expansion for class incremental learning** <br>
+   Zhiyuan Hu, Yunsheng Li, Jiancheng Lyu, Dashan Gao, Nuno Vasconcelos <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023 <br>
+   [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Dense_Network_Expansion_for_Class_Incremental_Learning_CVPR_2023_paper.pdf)
+7. **Should all proposals be treated equally in object detection?** <br>
+   Yunsheng Li, Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Pei Yu, Ying Jin, Lu Yuan, Zicheng Liu, Nuno Vasconcelos <br>
    European Conference on Computer Vision (**ECCV**), 2022 <br>
+   [[Paper]](https://arxiv.org/pdf/2207.03520) [[Code]](https://github.com/liyunsheng13/dpp)
 6. **Unified contrastive learning in image-text-label space** <br>
    Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao <br> 
     Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 <br>
