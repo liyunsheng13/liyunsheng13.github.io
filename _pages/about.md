@@ -40,31 +40,30 @@ Publications
    Yunsheng Li, Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Pei Yu, Ying Jin, Lu Yuan, Zicheng Liu, Nuno Vasconcelos <br>
    European Conference on Computer Vision (**ECCV**), 2022 <br>
    [[Paper]](https://arxiv.org/pdf/2207.03520) [[Code]](https://github.com/liyunsheng13/dpp)
-6. **Unified contrastive learning in image-text-label space** <br>
-   Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao <br> 
-    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 <br>
-    [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unified_Contrastive_Learning_in_Image-Text-Label_Space_CVPR_2022_paper.pdf)
-6. **Florence: A New Foundation Model for Computer Vision** <br>
-   Lu Yuan, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, Jianwei Yang, Michael Zeng, Luowei Zhou, Pengchuan Zhang <br>
-   [[arXiv]](https://arxiv.org/pdf/2111.11432)
-4. **Lite-hrnet: A lightweight high-resolution network** <br>
-   Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang <br>
+6. **MicroNet: Towards image recognition with extremely low FLOPs** <br>
+   Yunsheng Li, Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Lu Yuan, Zicheng Liu, Lei Zhang, Nuno Vasconcelos <br> 
+   International Conference on Computer Vision (*ICCV**), 2021 <br>
+   [[Paper]](https://arxiv.org/abs/2108.05894) [[Website]](http://www.svcl.ucsd.edu/projects/drt)
+6. **Dynamic Transfer for Multi-Source Domain Adaptation** <br>
+   Yunsheng Li, Lu Yuan, Yinpeng Chen, Pei Wang, Nuno Vasconcelos <br>
    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021 <br>
-   [[Paper]](http://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.pdf) [[Code]](https://github. com/HRNet/Lite-HRNet)
-   <div><iframe src="https://ghbtns.com/github-btn.html?user=HRNet&repo=Lite-HRNet&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
-3. **HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation** <br>
-   Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S Huang, Lei Zhang <br>
+   [[Paper]](https://arxiv.org/abs/2103.10583) [[Website]](http://www.svcl.ucsd.edu/projects/drt)
+4. **Revisiting Dynamic Convolution via Matrix Decomposition** <br>
+   Yunsheng Li, Yinpeng Chen, Xiyang Dai, Mengchen Liu, Dongdong Chen, Ye Yu, Zicheng Liu, Mei Chen, Lu Yuan, Nuno Vasconcelos <br>
+   International Conference on Learning Representations (**ICLR**), 2021 <br>
+   [[Paper]](https://arxiv.org/abs/2103.08756) [[Website]](http://www.svcl.ucsd.edu/projects/dcd)
+3. **Explainable Object-induced Action Decision for Autonomous Vehicles** <br>
+   Yiran Xu, Xiaoyin Yang, Lihang Gong, Hsuan-Chu Lin, Tz-Ying Wu, Yungsheng Li, Nuno Vasconcelos <br>
    Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020 <br>
-   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_HigherHRNet_Scale-Aware_Representation_Learning_for_Bottom-Up_Human_Pose_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
-   <div><iframe src="https://ghbtns.com/github-btn.html?user=HRNet&repo=HigherHRNet-Human-Pose-Estimation&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
-3. **Deep High-Resolution Representation Learning for Visual Recognition** <br>
-   Jingdong Wang, Ke Sun, Tianheng Cheng, Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu, Mingkui Tan, Xinggang Wang, Wenyu Liu, Bin Xiao <br>
-   IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2020 <br>
-   [[Paper]](https://arxiv.org/pdf/1908.07919)
-2. **Integral human pose regression** <br>
-   Xiao Sun, Bin Xiao, Fangyin Wei, Shuang Liang, Yichen Wei <br>
-    European Conference on Computer Vision (**ECCV**), 2018 <br>
-    [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.pdf)
+   [[Paper]](https://arxiv.org/pdf/2003.09405.pdf) [[Website]](https://twizwei.github.io/bddoia_project/)
+3. **Bidirectional Learning for Domain Adaptation of Semantic Segmentation** <br>
+   Yunsheng Li, Lu Yuan, Nuno Vasconcelos <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
+   [[Paper]](https://arxiv.org/pdf/1904.10620.pdf) [[Website]](http://www.svcl.ucsd.edu/projects/bdl)
+2. **Efficient Multi-Domain Learning by Covariance Normalization** <br>
+   Yunsheng Li Nuno Vasconcelos <br>
+   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
+   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Efficient_Multi-Domain_Learning_by_Covariance_Normalization_CVPR_2019_paper.pdf) [[Website]](http://www.svcl.ucsd.edu/projects/CovNorm)
 
 
 
