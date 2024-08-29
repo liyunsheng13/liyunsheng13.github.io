@@ -24,11 +24,10 @@ Publications
    [[arXiv]](https://arxiv.org/abs/2404.14219) [[HuggingFace]](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
 8. **Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge** <br>
    Yuanze Lin, Yunsheng Li, Dongdong Chen, Weijian Xu, Ronald Clark, Philip Torr, Lu Yuan <br>
-   [[arXiv]](https://arxiv.org/pdf/2407.04681)  </span> 
-2. **Deep High-Resolution Representation Learning for Human Pose Estimation** <br>
-   Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang <br>
-   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 <br>
-   [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.pdf) [[Code]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) [<span style="color:red"> **Paper Digest Most Influential CVPR Papers** </span>](https://www.paperdigest.org/2022/05/most-influential-cvpr-papers-2022-05/)
+   [[arXiv]](https://arxiv.org/pdf/2407.04681)
+2. **SCHEME: Scalable Channer Mixer for Vision Transformers** <br>
+   Deepak Sridhar, Yunsheng Li, Nuno Vasconcelos <br>
+   [[arXiv]](https://arxiv.org/pdf/2312.00412)
    <div><iframe src="https://ghbtns.com/github-btn.html?user=leoxiaobin&repo=deep-high-resolution-net.pytorch&type=star&count=true" frameborder="0" scrolling="0" width="94px" height="20px"></iframe></div>
 5. **CvT: Introducing Convolutions to Vision Transformers** <br>
    Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang <br>
