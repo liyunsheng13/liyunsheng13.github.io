@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : ""
 name                     : &name "Yunsheng Li"
-description              : &description "Senior Researcher"
+description              : &description "Member of Technical Staff at Microsoft AI"
 url                      : https://liyunsheng13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liyunsheng13/liyunsheng13.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunsheng Li"
   avatar           : "profile.jpeg"
-  bio              : "Senior Researcher at Microsoft Azure GenAI"
+  bio              : "Member of Technical Staff at Microsoft AI"
   location         : "Redmond"
   employer         : Microsoft
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
